@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Sami</h1>
+<h1 align="center">Mahmoud Sami</h1>
 <h3 align="center">A Software Engineer (Backend | ASP.NET Core)</h3>
 
 <h3 align="left">Connect with me:</h3>
